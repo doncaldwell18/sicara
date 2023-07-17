@@ -1,0 +1,1116 @@
+
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <title>Sicara - Blog Technique</title>
+    <link rel="shortcut icon" href="https://www.sicara.fr/hubfs/Website/Pages/Qui%20sommes-nous/Sicara-min.png">
+    <meta name="description" content="Voici notre blog technique">
+    
+    
+    
+    
+    
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Voici notre blog technique">
+    <meta property="og:title" content="Sicara - Blog Technique">
+    <meta name="twitter:description" content="Voici notre blog technique">
+    <meta name="twitter:title" content="Sicara - Blog Technique">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.sicara.fr/hs-fs/hub/2679069/hub_generated/template_assets/63822614043/1689264973663/Sicara/css/main.min.css">
+<link rel="stylesheet" href="https://www.sicara.fr/hs-fs/hub/2679069/hub_generated/template_assets/63822614041/1642096163944/Sicara/css/theme-overrides.css">
+    
+
+    
+<!--  Added by GoogleAnalytics integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-86748330-1','auto');
+  ga('send','pageview');
+}}]);
+</script>
+
+<!-- /Added by GoogleAnalytics integration -->
+
+<!--  Added by GoogleTagManager integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+
+var hsLoadGtm = function loadGtm() {
+    if(window._hsGtmLoadOnce) {
+      return;
+    }
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-56Z5HRW');
+
+    window._hsGtmLoadOnce = true;
+};
+
+var useGoogleConsentMode = false;
+
+if (!useGoogleConsentMode){
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      if(consent.allowed || (consent.categories && consent.categories.analytics)){
+        hsLoadGtm();
+      }
+  }]);
+} else{
+    if(!window._hsGoogleConsentRunOnce){
+      window._hsGoogleConsentRunOnce=true;
+
+      window.dataLayer=window.dataLayer||[];
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('consent','default',{
+        'ad_storage':'denied',
+        'analytics_storage':'denied'
+      });
+
+      gtag('set','developer_id.dZTQ1Zm',true);
+
+      _hsp.push(['addPrivacyConsentListener',function(consent){
+      var hasAnalyticsConsent=consent&&(consent.allowed||(consent.categories&&consent.categories.analytics));
+      var hasAdsConsent=consent&&(consent.allowed||(consent.categories&&consent.categories.advertisement));
+
+      gtag('consent','update',{
+        'ad_storage':hasAdsConsent?'granted':'denied',
+        'analytics_storage':hasAnalyticsConsent?'granted':'denied'
+      });
+    }]);
+  }
+
+  hsLoadGtm();
+}
+</script>
+
+<!-- /Added by GoogleTagManager integration -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="next" href="https://www.sicara.fr/blog-technique/page/2">
+<meta property="og:url" content="https://www.sicara.fr/blog-technique">
+<meta property="og:type" content="blog">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" href="https://www.sicara.fr/blog-technique/rss.xml">
+<meta name="twitter:domain" content="www.sicara.fr">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+</script>
+
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+  <meta name="generator" content="HubSpot"></head>
+  <body>
+<!--  Added by GoogleTagManager integration -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56Z5HRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- /Added by GoogleTagManager integration -->
+
+    <div class="body-wrapper   hs-content-id-70801019293 hs-blog-listing hs-blog-id-30018413568">
+      
+        <div data-global-resource-path="Sicara/templates/partials/header-blog.html"><div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_header-module-2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><section id="" class="mega-menu-alt  section- ">
+  <div id="watchScroll" class="navigation green">
+    <div class="navigation--main py-2 py-lg-0">
+        <div class="container">
+            <div class="wrapper p-relative d-flex flex-lg-wrap align-items-lg-center">
+                <a href="https://www.sicara.fr/en/" class="logo mr-1">
+                    <img class="img-fluid" src="https://www.sicara.fr/hubfs/Website/Picto%20Header/A%20theodo%20Group.svg" alt="A theodo Group">
+                </a>
+                <button id="hamburger-toggle" class="skip d-flex flex-column justify-content-between d-lg-none">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <nav class="sc-site-header__menu sc-site-header__menu-- hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal mt-2 mt-lg-0 flex-column flex-lg-row justify-content-lg-end align-items-start align-items-lg-center">
+                    <ul class="d-flex list-unstyled m-0">
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 hs-item-has-children px-lg-1">
+                            
+                            <p class="p-relative d-arrow d-inline-block">Our offers
+                            </p>
+                            <ul class="hs-menu-children-wrapper hs-menu-children-wrapper-1 p-lg-4 list-unstyled">
+                                <div class="container">
+                                    
+                                    <div class="row row-wrapper flex-row h-100 flex-grow">
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Picto blog tech, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/Picto%20blog%20tech.svg, width=23}, content_type=complex_item, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=BLOG, content_id=30018413568, href=https://www.sicara.fr/blog-technique}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=CONTENT, content_id=64945841227, href=https://www.sicara.fr/data-ia-factory}, icon_link_label=Blog Technique, complex_item_icon={alt=Data-Factory, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/Data-Factory.svg, width=40}, complex_item_label=Data &amp; IA Factory, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=From factory design to data engineering and industrial deployment of business applications.})</p> -->
+                                            
+                                            <a class="complex-cta d-block p-relative" href="https://www.sicara.fr/data-ia-factory">
+                                                <figure class="icon">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/Data-Factory.svg" alt="Data-Factory">
+                                                </figure>
+                                                <p class="link-title">
+                                                    Data &amp; IA Factory
+                                                </p>
+                                                <p class="description">
+                                                    From factory design to data engineering and industrial deployment of business applications.
+                                                </p>
+                                            </a>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Union, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Union.svg, width=23}, content_type=complex_item, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=CONTENT, content_id=64945841207, href=https://www.sicara.fr/ia-augmenter-chiffre-affaires}, icon_link_label=Data engineering, complex_item_icon={alt=Augmentation-Chiffre-Affaire, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/Augmentation-Chiffre-Affaire.svg, width=40}, complex_item_label=Increase turnover, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Making good use of data to generate new AI-based products or to develop existing products or functions.})</p> -->
+                                            
+                                            <a class="complex-cta d-block p-relative" href="https://www.sicara.fr/ia-augmenter-chiffre-affaires">
+                                                <figure class="icon">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/Augmentation-Chiffre-Affaire.svg" alt="Augmentation-Chiffre-Affaire">
+                                                </figure>
+                                                <p class="link-title">
+                                                    Increase turnover
+                                                </p>
+                                                <p class="description">
+                                                    Making good use of data to generate new AI-based products or to develop existing products or functions.
+                                                </p>
+                                            </a>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Union, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Union.svg, width=23}, content_type=complex_item, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=CONTENT, content_id=64952721171, href=https://www.sicara.fr/ia-efficience-operationnelle}, icon_link_label=Data engineering, complex_item_icon={alt=Recommendation system, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20de%20recommandation.svg, width=40}, complex_item_label=Operational efficiency, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Proper management and deployment of algorithms within your organization will enable productivity gains.})</p> -->
+                                            
+                                            <a class="complex-cta d-block p-relative" href="https://www.sicara.fr/ia-efficience-operationnelle">
+                                                <figure class="icon">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20de%20recommandation.svg" alt="Recommendation system">
+                                                </figure>
+                                                <p class="link-title">
+                                                    Operational efficiency
+                                                </p>
+                                                <p class="description">
+                                                    Proper management and deployment of algorithms within your organization will enable productivity gains.
+                                                </p>
+                                            </a>
+                                            
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 hs-item-has-children px-lg-1">
+                            
+                            <p class="p-relative d-arrow d-inline-block">Our expertises
+                            </p>
+                            <ul class="hs-menu-children-wrapper hs-menu-children-wrapper-1 p-lg-4 list-unstyled">
+                                <div class="container">
+                                    
+                                    <div class="row row-wrapper flex-row h-100 flex-grow">
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, content_type=title, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Application mobile, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Discover our expertises, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <p class="title h3 text-white mb-1 d-none d-lg-block">
+                                                Discover our expertises
+                                            </p>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=4998052, height=280, loading=disabled, max_height=280, max_width=280, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/4998052.png, width=280}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=111682362461, href=https://www.sicara.fr/en/databricks}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Databricks , complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 280'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/4998052.png" alt="4998052" width="280" height="280">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/en/databricks">Databricks </a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=snowflake_logo1, height=1559, loading=disabled, max_height=1559, max_width=1565, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/snowflake_logo1.png, width=1565}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=111532896561, href=https://www.sicara.fr/en/snowflake}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Snowflake, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1565 1559'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/snowflake_logo1.png" alt="snowflake_logo1" width="1565" height="1559">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/en/snowflake">Snowflake</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=google-cloud-partner, height=520, loading=disabled, max_height=520, max_width=480, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Capture_d_%C3%A9cran_2023-03-03_%C3%A0_18.49.00-removebg-preview.png, width=480}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=111586566816, href=https://www.sicara.fr/en/google-cloud-platform}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Google Cloud Platform, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 520'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Capture_d_%C3%A9cran_2023-03-03_%C3%A0_18.49.00-removebg-preview.png" alt="google-cloud-partner" width="480" height="520">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/en/google-cloud-platform">Google Cloud Platform</a>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Power BI, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Power%20BI.svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=65722596729, href=https://www.sicara.fr}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Business Intelligence, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Power BI, title=Advanced Analytics, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Power%20BI.svg" alt="Power BI" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr">Business Intelligence</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Data Engineering , height=35, loading=disabled, max_height=52, max_width=40, size_type=auto_custom_max, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Architecture%20Data.svg, width=27}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=69625980853, href=https://www.sicara.fr/data-engineering}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Data Engineering, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 27 35'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Architecture%20Data.svg" alt="Data Engineering " width="27" height="35">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/data-engineering">Data Engineering</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Data managment, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Data%20managment.svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=65722596729, href=https://www.sicara.fr}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Data Management, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Data%20managment.svg" alt="Data managment" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr">Data Management</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Predictive system (1), height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20pre%CC%81dictif%20(1).svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=77332457729, href=https://www.sicara.fr/systemes-predictifs}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Predictive system, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20pre%CC%81dictif%20(1).svg" alt="Predictive system (1)" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/systemes-predictifs">Predictive system</a>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Group 557, height=22, loading=disabled, max_height=22, max_width=33, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Group%20557.svg, width=33}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=68663042670, href=https://www.sicara.fr/computer-vision}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Computer Vision, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=IA &amp; Data Sciences, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 33 22'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Group%20557.svg" alt="Group 557" width="33" height="22">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/computer-vision">Computer Vision</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Anomaly detection, height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Detection%20danomalie.svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=86539732621, href=https://www.sicara.fr/detection-anomalies}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Anomaly detection, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Detection%20danomalie.svg" alt="Anomaly detection" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/detection-anomalies">Anomaly detection</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Recommendation system (1), height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20de%20recommandation%20(1).svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=70977333324, href=https://www.sicara.fr/systeme-recommandation}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=Recommendation system, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/Website/Picto%20Header/Syste%CC%80me%20de%20recommandation%20(1).svg" alt="Recommendation system (1)" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr/systeme-recommandation">Recommendation system</a>
+                                            </div>
+                                            
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=NLP (1), height=40, loading=disabled, max_height=40, max_width=40, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/NLP%20(1).svg, width=40}, content_type=icon_link, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=65722596729, href=https://www.sicara.fr}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=NLP, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <div class="icon-link d-flex align-items-center">
+                                                <div class="wrapper-img bg-light-grey d-flex align-items-center justify-content-center rounded-circle">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/NLP%20(1).svg" alt="NLP (1)" width="40" height="40">
+                                                </div>
+                                                <a class="link" href="https://www.sicara.fr">NLP</a>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 ">
+                            
+                            <a class="d-block p-relative px-lg-1" href="https://www.sicara.fr/en/our-story">Our history
+                            </a>
+                            
+                        </li>
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 hs-item-has-children px-lg-1">
+                            
+                            <p class="p-relative d-arrow d-inline-block">Blogs
+                            </p>
+                            <ul class="hs-menu-children-wrapper hs-menu-children-wrapper-1 p-lg-4 list-unstyled">
+                                <div class="container">
+                                    
+                                    <div class="row row-wrapper flex-row h-100 flex-grow">
+                                        
+                                        <div class="col-lg-12">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Union, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Union.svg, width=23}, content_type=title, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=CONTENT, content_id=64945841227, href=https://www.sicara.fr/data-ia-factory}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, icon_link_label=D&eacute;couvrir nos expertises, complex_item_icon={loading=disabled, size_type=auto, src=https://via.placeholder.com/20}, complex_item_label=Assurance, title=Discover our blogs, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa})</p> -->
+                                            
+                                            <p class="title h3 text-white mb-1 d-none d-lg-block">
+                                                Discover our blogs
+                                            </p>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Picto blog tech, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/Picto%20blog%20tech.svg, width=23}, content_type=complex_item, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=BLOG, content_id=30018413568, href=https://www.sicara.fr/blog-technique}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=BLOG, content_id=30018413568, href=https://www.sicara.fr/blog-technique}, icon_link_label=Blog Technique, complex_item_icon={alt=Picto blog tech, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/Picto%20blog%20tech.svg, width=23}, complex_item_label=Technical Blog, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Notre blog technique autour de la data et de l'IA})</p> -->
+                                            
+                                            <a class="complex-cta d-block p-relative" href="https://www.sicara.fr/blog-technique">
+                                                <figure class="icon">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23 30'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/Picto%20blog%20tech.svg" alt="Picto blog tech">
+                                                </figure>
+                                                <p class="link-title">
+                                                    Technical Blog
+                                                </p>
+                                                <p class="description">
+                                                    Notre blog technique autour de la data et de l'IA
+                                                </p>
+                                            </a>
+                                            
+                                            
+                                        </div>
+                                        
+                                        <div class="col-lg-4">
+                                            
+                                            <!-- <p class="text-white">(SizeLimitingPyMap: {icon_link={alt=Union, height=30, loading=disabled, max_height=30, max_width=23, size_type=auto, src=https://f.hubspotusercontent10.net/hubfs/2679069/Union.svg, width=23}, content_type=complex_item, cta_link={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_title=&lt;h3&gt;&lt;span&gt;Livre blanc&lt;/span&gt; sur lorem ipsum dolor iet amet consectur&lt;/h3&gt;, url_field={type=EXTERNAL, content_id=null, href=https://www.drivequant.com/fr/}, cta_button_text=T&eacute;l&eacute;chargez, complex_item_url={type=BLOG, content_id=71524292535, href=https://www.sicara.fr/fr/parlons-data}, icon_link_label=Data engineering, complex_item_icon={alt=picto blog parlons data, height=34, loading=disabled, max_height=34, max_width=26, size_type=auto, src=https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/picto%20blog%20parlons%20data.svg, width=26}, complex_item_label=Data Talks, title=Industries, description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec morbi dictum sit gravida massa. Quis duis nulla pretium augue nisi, quam risus facilisis et., complex_item_description=Les d&eacute;cideurs face au Big Data et &agrave; l'Intelligence Artificielle})</p> -->
+                                            
+                                            <a class="complex-cta d-block p-relative" href="https://www.sicara.fr/fr/parlons-data">
+                                                <figure class="icon">
+                                                    <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 34'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/Pages/Home%20Page/picto%20blog%20parlons%20data.svg" alt="picto blog parlons data">
+                                                </figure>
+                                                <p class="link-title">
+                                                    Data Talks
+                                                </p>
+                                                <p class="description">
+                                                    Les décideurs face au Big Data et à l'Intelligence Artificielle
+                                                </p>
+                                            </a>
+                                            
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </ul>
+                            
+                        </li>
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 ">
+                            
+                            <a class="d-block p-relative px-lg-1" href="https://www.sicara.fr/en/etudes-de-cas">Our clients
+                            </a>
+                            
+                        </li>
+                        
+                        <li class="hs-menu-item mb-0 hs-menu-depth-1 ">
+                            
+                            <a class="d-block p-relative px-lg-1" href="https://www.sicara.fr/en/our-careers">Our careers
+                            </a>
+                            
+                        </li>
+                        
+                    </ul>
+                    <div class="wrapper-right d-flex flex-column flex-lg-row">
+                        <div class="toggle-search mr-2 d-flex">
+                            <svg class="icon-search" width="18" height="18" viewbox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.0625C2.25 4.85234 4.85234 2.25 8.0625 2.25C11.2727 2.25 13.875 4.85234 13.875 8.0625C13.875 11.2727 11.2727 13.875 8.0625 13.875C4.85234 13.875 2.25 11.2727 2.25 8.0625ZM8.0625 0.75C4.02392 0.75 0.75 4.02392 0.75 8.0625C0.75 12.1011 4.02392 15.375 8.0625 15.375C9.81166 15.375 11.4174 14.7609 12.6758 13.7364L15.9697 17.0303C16.2626 17.3232 16.7374 17.3232 17.0303 17.0303C17.3232 16.7374 17.3232 16.2626 17.0303 15.9697L13.7364 12.6758C14.7609 11.4174 15.375 9.81166 15.375 8.0625C15.375 4.02392 12.1011 0.75 8.0625 0.75Z" fill="white" fill-opacity="0.4" />
+                            </svg>
+                            <form id="searchForm" action="/hs-search-results">
+                                <div class="form-control-container form-control-container-classic" data-children-count="1">
+                                    <input type="hidden" name="type" value="BLOG_POST">
+                                    <input type="hidden" name="type" value="SITE_PAGE">
+                                    <input class="form-control form-control-sm form-control-classic p-1" type="text" placeholder="Search" aria-label=" Search" name="term" autocomplete="off">
+                                </div>
+                            </form>
+
+
+                            
+                        </div>
+                        
+                        <a class="btn white primary" href="https://www.sicara.fr/en/contact">Contact us</a>
+                        
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+</section></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div></div>
+      
+      
+      
+<div class="blog-listing">
+    
+        <!--Classic Listing - You can manage it here -->
+        <div id="hs_cos_wrapper_module_16498348172622" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><section class="technical-blog-listing-hero-section bg-dark p-relative">
+    <img class="img-fluid pattern lazy p-absolute" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 696 465'%3E%3C/svg%3E" data-src="https://fs.hubspotusercontent00.net/hubfs/2659857/Sicara/pattern/pattern-first.png" alt="First pattern">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 offset-md-1">
+                <div class="title a-white">
+                    <h1><span>Our technical blog about data and AI</span></h1>
+                </div>
+            </div>
+            <div class="col-md-7 offset-md-4">
+                <div class="description a-w80">
+                    <p><span>Discover all the Data and AI articles written by our experts</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div>
+        <div id="hs_cos_wrapper_featured_post" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><section class="featured-post bg-dark p-relative o-hidden pb-9">
+    <img class="img-fluid pattern lazy p-absolute d-none d-md-block" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 711 478'%3E%3C/svg%3E" data-src="https://fs.hubspotusercontent00.net/hubfs/2659857/Sicara/pattern/pattern-second.png" alt="">
+    <div class="container">
+        
+
+        
+
+        
+        
+        
+        
+        <div class="single-post featured o-hidden p-relative d-flex flex-column flex-md-row justify-content-between">
+            <a class="link d-block" href="https://www.sicara.fr/blog-technique/accelerate-python-projects-using-copilot">
+                <div class="feat-img p-relative">
+                    <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/copilot_74804a2aeca22c260d3932ad7b903ba0.jpg" alt="">
+                </div>
+            </a>
+            <div class="content-wrapper pt-0 pl-md-2 pl-lg-6 h-100 mt-2 mt-md-0">
+                <div class="wrap d-flex justify-content-start mb-3 mt-0">
+                    <div class="container-tags">
+                        
+                        <p class="text-white d-inline">July
+                            12,
+                            2023 • </p>
+                        
+                        
+                        
+                        <a class="label w80 p-relative z-md text-decoration-none" href="https://www.sicara.fr/blog-technique/tag/data-engineering">Data Engineering</a>
+                        
+                        
+                    </div>
+                    
+                </div>
+                <h3 class="h4 title mb-2">
+                    Accelerate Your Projects with Copilot: Tips for Improving Your Development Flow
+                </h3>
+
+                
+                <p class="w80">You're hesitating to use Copilot, but don't really know how it will improve your dev experience? Get a look at these use-cases!</p>
+                
+                <p class="btn secondary mt-2">Lire l'article</p>
+            </div>
+        </div>
+        
+    </div>
+</section></div>
+        <div class="listing-tags bg-dark pt-1">
+            <div class="container">
+                
+                <div class="tags p-relative d-flex mx-auto align-items-center a-w80">
+                    <div class="tag-wrapper is-active mr-0 mr-1 mb-1">
+                        <a class="label p-relative" href="/blog">Tous les articles</a>
+                    </div>
+                    
+                    <div class="tag-wrapper mr-0 mr-md-1 mb-1  ">
+                        <a class="label p-relative" href="https://www.sicara.fr/blog-technique/tag/machine-learning">Machine Learning</a>
+                    </div>
+                    
+                    <div class="tag-wrapper mr-0 mr-md-1 mb-1  ">
+                        <a class="label p-relative" href="https://www.sicara.fr/blog-technique/tag/data-engineering">Data Engineering</a>
+                    </div>
+                    
+                    <div class="tag-wrapper mr-0 mr-md-1 mb-1  ">
+                        <a class="label p-relative" href="https://www.sicara.fr/blog-technique/tag/computer-vision">Computer Vision</a>
+                    </div>
+                    
+                    <div class="tag-wrapper mr-0 mr-md-1 mb-1  ">
+                        <a class="label p-relative" href="https://www.sicara.fr/blog-technique/tag/python">Python</a>
+                    </div>
+                    
+                    <div class="tag-wrapper mr-0 mr-md-1 mb-1  mr-6 mr-md-10">
+                        <a class="label p-relative" href="https://www.sicara.fr/blog-technique/tag/methodologie">Methodologie</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="listing pt-2 pb-6">
+            <div class="container">
+                <ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb d-flex align-items-center list-unstyled p-0 m-0">
+                    <a class="grey text-decoration-none" itemprop="item" href="/"><span itemprop="name">Accueil</span></a>
+                    <meta itemprop="position" content="1">
+                    
+                    <li class="p-relative" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                        <a class="grey text-decoration-none" itemprop="item" href="/blog"><span itemprop="name">Blog</span></a>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ul>
+                <div class="row">
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-8 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/data-mesh-data-team-explosion">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/explosion-poudre-arc-ciel-mixte-coloree-isolee-fond-blanc_0b47736e8847c90f6dd9f9f8bd9857fe.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">July
+                                4,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/data-mesh-data-team-explosion">Toward Data Mesh: why your data team is about to explode</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-4 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Screenshot%202023-06-26%20at%2014.00.18.png" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">June
+                                26,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/how-to-choose-your-vector-database-in-2023">How to choose your vector database in 2023?</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-6 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/boost-code-quality-ruff-linter">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/pexels-lukas-574071_b45af84a24906137bd7ff5a3b97421d1.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">June
+                                21,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/boost-code-quality-ruff-linter">The Fastest Way to Boost your Code Quality: Use Ruff Linter</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                    
+                                    <a class="label grey p-relative z-md text-decoration-none" href="https://www.sicara.fr/blog-technique/tag/machine-learning">Machine Learning</a>
+                                    
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-6 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/nlp-for-preprocessing-text-data-at-scale-with-gcp-dataproc">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/capture-decran-2023-05-26-a-095240_eaa9b0c8ab0c65f2eea142f0e3df5901.png" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">June
+                                8,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/nlp-for-preprocessing-text-data-at-scale-with-gcp-dataproc">NLP for preprocessing text data at scale with GCP Dataproc</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                    
+                                    <a class="label grey p-relative z-md text-decoration-none" href="https://www.sicara.fr/blog-technique/tag/data-engineering">Data Engineering</a>
+                                    
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-4 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/few-shot-open-set-recognition">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Sandbox%20FSL%20%2821%29.png" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">May
+                                10,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/few-shot-open-set-recognition">OSLO: Few-Shot Open-Set Recognition with a simple framework</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-4 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/create-bigquery-data-pipelines-with-airflow-and-docker">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/screenshot-2023-04-25-at-135536_cf0472d781d1b564e237362cdcddce47.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">May
+                                4,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/create-bigquery-data-pipelines-with-airflow-and-docker">How to create BigQuery data pipelines with Airflow and Docker</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="col-md-4 mt-4">
+                    <div class="single-post o-hidden p-relative d-flex flex-column justify-content-between h-100">
+                        <a class="link d-block" href="https://www.sicara.fr/blog-technique/master-data-transformation-dbt-apache-airflow">
+                            <div class="feat-img p-relative">
+                                
+                                <img class="img-fluid lazy fit-cover" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0  '%3E%3C/svg%3E" data-src="https://d37oebn0w9ir6a.cloudfront.net/account_16771/capture-decran-2023-04-19-a-173027_1ea61d2ce2a5acfa05704049b1d80fcc.png" alt="dbt x Airflow">
+                            </div>
+                        </a>
+                        <div class="content-wrapper h-100 d-flex flex-column justify-content-between">
+                            <p class="mb-1">April
+                                20,
+                                2023</p>
+                            <h3 class="p dark">
+                                <a class="text-decoration-none" href="https://www.sicara.fr/blog-technique/master-data-transformation-dbt-apache-airflow">Master your data transformation with dbt and Apache Airflow</a>
+                            </h3>
+                            <div class="wrap d-flex justify-content-between">
+                                <div class="container-tags">
+                                    
+                                    
+                                    <a class="label grey p-relative z-md text-decoration-none" href="https://www.sicara.fr/blog-technique/tag/data-engineering">Data Engineering</a>
+                                    
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+            </div>
+        </div>
+        
+    </div>
+    <!-- Pagination - You can manage it here -->
+    
+    <nav class="blog-pagination d-flex justify-content-center py-5">
+        
+        
+        
+        <a class="previous d-flex justify-content-center align-items-center text-decoration-none" href="https://www.sicara.fr/blog-technique/page/0">
+        </a>
+        <div class="container-pagination-link d-flex justify-content-center align-items-center">
+            
+            
+             <a class="blog-pagination__number-link d-flex justify-content-center align-items-center text-decoration-none rounded-circle 
+                blog-pagination__link--active" href="https://www.sicara.fr/blog-technique/page/1">1</a>
+                
+                
+            
+             <a class="blog-pagination__number-link d-flex justify-content-center align-items-center text-decoration-none rounded-circle " href="https://www.sicara.fr/blog-technique/page/2">2</a>
+                
+                
+            
+             <a class="blog-pagination__number-link d-flex justify-content-center align-items-center text-decoration-none rounded-circle " href="https://www.sicara.fr/blog-technique/page/3">3</a>
+                
+                
+            
+             <a class="blog-pagination__number-link d-flex justify-content-center align-items-center text-decoration-none rounded-circle " href="https://www.sicara.fr/blog-technique/page/4">4</a>
+                
+                
+            
+             <a class="blog-pagination__number-link d-flex justify-content-center align-items-center text-decoration-none rounded-circle " href="https://www.sicara.fr/blog-technique/page/5">5</a>
+                
+                
+        </div>
+        <a class="next d-flex justify-content-center align-items-center text-decoration-none " href="https://www.sicara.fr/blog-technique/page/2">
+        </a>
+    </nav>
+    
+
+</div>
+<div id="hs_cos_wrapper_module_16462197735541" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><section id="" class="banner-cta bg-dark p-relative o-hidden py-6 py-md-10">
+    <img class="img-fluid pattern lazy p-absolute" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 696 465'%3E%3C/svg%3E" data-src="https://fs.hubspotusercontent00.net/hubfs/2659857/Sicara/pattern/pattern-first.png" alt="First pattern">
+    <img class="img-fluid pattern lazy p-absolute d-none d-md-block" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 711 478'%3E%3C/svg%3E" data-src="https://fs.hubspotusercontent00.net/hubfs/2659857/Sicara/pattern/pattern-second.png" alt="">
+    <div class="container p-relative">
+        <div class="row align-items-md-end">
+            <div class="col-md-7 col-lg-6">
+                <div class="title a-white mb-4 mb-md-0">
+                    <h2>Besoin d’expert <span>pour votre projet ?</span></h2>
+                </div>
+            </div>
+            <div class="col-md-4 offset-md-1 col-lg-3 offset-lg-3">
+                
+                <a class="btn primary" href="https://www.sicara.fr/contact">Contactez-nous</a>
+                
+            </div>
+        </div>
+    </div>
+</section></div>
+
+
+      <div data-global-resource-path="Sicara/templates/partials/footer-blog.html"><div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_footer-module-2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="" class="footer bg-dark pt-5 pb-5 pb-md-2">
+    <div class="main-footer pb-2 pb-md-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    
+                    <a class="d-block" href="https://www.makethegrade.fr/">
+                        <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 102 48'%3E%3C/svg%3E" data-src="https://f.hubspotusercontent10.net/hubfs/2679069/SICARA.png" alt="SICARA" width="102" height="48">
+                    </a>
+                    <div class="social-wrapper d-flex mt-1">
+                        
+                        <a class="d-flex justify-content-center align-items-center mr-1" href="https://www.youtube.com/channel/UCSqenVYtGVLVjAH9rw6dXeg" target="_blank">
+                            <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 15'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/youtube-icon-sicara.svg" alt="youtube-icon-sicara" width="20" height="15">
+                        </a>
+                        
+                        <a class="d-flex justify-content-center align-items-center mr-1" href="https://www.linkedin.com/company/sicara/" target="_blank">
+                            <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 21'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/linkedin-icon-sicara.svg" alt="linkedin-icon-sicara" width="20" height="21">
+                        </a>
+                        
+                        <a class="d-flex justify-content-center align-items-center mr-1" href="https://twitter.com/sicara_fr" target="_blank">
+                            <img class="img-fluid lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 18'%3E%3C/svg%3E" data-src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Website/pictos/twitter-icon-sicara.svg" alt="twitter-icon-sicara" width="20" height="18">
+                        </a>
+                        
+                    </div>
+                    <div class="description mt-2">
+                        <p><span>48 Bd des Batignolles, 75017 Paris</span></p>
+                    </div>
+                    
+                </div>
+                <div class="col-md-8">
+                    <div class="wrapper-navigation d-flex justify-content-between flex-wrap justify-content ml-md-3 mt-3 mt-md-0">
+                        <div class="ml-wrapper">
+                            <span id="hs_cos_wrapper_footer-module-2_cat_menu" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_footer-module-2_cat_menu" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="111585205786" aria-label="Navigation Menu">
+ <ul role="menu" class="active-branch">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.sicara.fr/notre-histoire" role="menuitem">Our history</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children active-branch" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Blogs</a>
+   <ul role="menu" class="hs-menu-children-wrapper active-branch">
+    <li class="hs-menu-item hs-menu-depth-2 active active-branch" role="none"><a href="https://www.sicara.fr/blog-technique" role="menuitem">Technical Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.sicara.fr/fr/parlons-data" role="menuitem">Data Talks</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.sicara.fr/etudes-de-cas" role="menuitem">Business Cases</a></li>
+ </ul>
+</div></span>
+                        </div>
+                        <div class="ml-wrapper">
+                            <span id="hs_cos_wrapper_footer-module-2_cat_menu" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_footer-module-2_cat_menu" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="111583428163" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Our offers</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.sicara.fr/data-ia-factory" role="menuitem">Data &amp; IA Factory</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.sicara.fr/ia-augmenter-chiffre-affaires" role="menuitem">Increase turnover</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.sicara.fr/ia-efficience-operationnelle" role="menuitem">Operational efficiency</a></li>
+   </ul></li>
+ </ul>
+</div></span>
+                        </div>
+                        <div class="ml-wrapper">
+                            <span id="hs_cos_wrapper_footer-module-2_cat_menu" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_footer-module-2_cat_menu" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="111583428221" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.sicara.fr/nos-carrieres" role="menuitem">Join us!</a></li>
+ </ul>
+</div></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sub-footer">
+        <div class="container">
+            <div class="nav-items d-flex flex-wrap justify-content-around justify-content-md-center py-1">
+                
+                
+                <p class=" sm">@Sicara 2022</p>
+                
+                
+                
+                <a class="text-decoration-none ml-md-3 sm" href="https://www.sicara.fr/politique-confidentialite">Privacy policy</a>
+                
+                
+                
+                <a class="text-decoration-none ml-md-3 sm" href="https://www.sicara.fr/mentions-legales">Legal notices</a>
+                
+                
+                
+                <a class="text-decoration-none ml-md-3 sm" href="https://www.sicara.fr/plan-de-site-sicara">Site plan</a>
+                
+                
+                
+                <p class="ml-md-3 sm">Terms of use</p>
+                
+                
+            </div>
+        </div>
+    </div>
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div></div>
+    </div>
+    
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.240/embed.js"></script>
+<script src="https://www.sicara.fr/hs-fs/hub/2679069/hub_generated/template_assets/63817880877/1689264613103/Sicara/js/main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "listing-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.sicara.fr\/blog-technique"]);
+_hsq.push(["setPageId", "70801019293"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 70801019293,
+    "legacyPageId": "70801019293",
+    "contentFolderId": null,
+    "contentGroupId": 30018413568,
+    "abTestId": null,
+    "languageVariantId": 70801019293,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/2679069.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "81c539ba-d2b6-4fe6-ac15-7c3701e49308",
+    ticks: 1689464341867,
+    page_id: 70801019293,
+    
+    content_group_id: 30018413568,
+    portal_id: 2679069,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "listing-page",
+    analytics_page_id: "70801019293",
+    category_id: 7,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.191/js/index.js"></script>
+
+
+<div id="fb-root"></div>
+ <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&status=0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+  
+</body></html>
